@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+trained_data/
+data/
+crawl_result/
